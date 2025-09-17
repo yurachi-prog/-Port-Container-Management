@@ -1,7 +1,7 @@
 # 🚢 Port Container Management
 
 
-Welcome to my Java-based turn-based game! This project showcases object-oriented programming concepts like **abstraction**, **polymorphism**, and **class interaction**—all wrapped in a simple GUI using `JOptionPane`.
+A console-based Port Container Management System is developed for a shipping port authority to efficiently manage the flow of containers and ships at the dock
 
 ---
 
